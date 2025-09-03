@@ -1,6 +1,6 @@
 # Hi, I'm Bhargav! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/your-leetcode-profile/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavgopi05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-gopi-anagani-374461251/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BHARGAVgopi/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavgopi05@gmail.com)
 
 ### 👨‍💻 About Me
 I'm a passionate **Computer Science Student** at **VIT-AP University**, currently pursuing my B.Tech. I am an aspiring technologist seeking a challenging and rewarding opportunity to learn and develop a diverse range of technical skills while contributing to the growth of a dynamic technology team.
@@ -32,14 +32,11 @@ I'm a passionate **Computer Science Student** at **VIT-AP University**, currentl
 ![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### **Concepts**
-![OOP](https://img.shields.io/badge/OOP-B7410E?style=for-the-badge&logo=oop&logoColor=white)
+![OOPS](https://img.shields.io/badge/OOP-B7410E?style=for-the-badge&logo=oop&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=datastructures&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=database&logoColor=white)
 
 ---
-
-
-
 
 ### 📜 Certifications
 
@@ -55,5 +52,5 @@ I'm a passionate **Computer Science Student** at **VIT-AP University**, currentl
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - **Email:** [bhargavgopi05@gmail.com](mailto:bhargavgopi05@gmail.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-linkedin-profile)
-- **LeetCode:** [Check my profile](https://leetcode.com/u/your-leetcode-profile/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bhargav-gopi-anagani-374461251/)
+- **LeetCode:** [Check my profile](https://leetcode.com/u/BHARGAVgopi/)
